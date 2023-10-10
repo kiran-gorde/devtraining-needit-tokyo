@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b55a4102472df1103b6e1916926d43e3" extends="task" label="newapplications" max_length="40" name="x_58872_needit_newapplications" type="collection"/>
+</database>

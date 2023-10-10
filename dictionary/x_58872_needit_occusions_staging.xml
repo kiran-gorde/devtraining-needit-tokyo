@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8d503b09473131103b6e1916926d431e" extends="sys_import_set_row" label="occusions_Staging" max_length="40" name="x_58872_needit_occusions_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adesh Waykar" label="Adesh Waykar" max_length="208" name="u_adesh_waykar" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Kiran Gorde" label="Kiran Gorde" max_length="104" name="u_kiran_gorde" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Palash Kardhekar" label="Palash Kardhekar" max_length="254" name="u_palash_kardhekar" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Shreshthi Nalawade" label="Shreshthi Nalawade" max_length="40" name="u_shreshthi_nalawade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Topics" label="Topics " max_length="74" name="u_topics" type="string"/>
+    </element>
+</database>

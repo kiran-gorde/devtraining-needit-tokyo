@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9706640a4769f1103b6e1916926d438d" extends="task" label="needitapp" max_length="40" name="x_58872_needit_needitapp" type="collection">
+        <element label="newcontact" max_length="40" name="newcontact" type="string"/>
+        <element label="newrow" max_length="40" name="newrow" type="string"/>
+        <element default="200" label="new record" max_length="300" name="new_record" type="string"/>
+    </element>
+</database>
