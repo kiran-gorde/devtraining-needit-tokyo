@@ -3,5 +3,6 @@
         <element label="newcontact" max_length="40" name="newcontact" type="string"/>
         <element label="newrow" max_length="40" name="newrow" type="string"/>
         <element default="200" label="new record" max_length="300" name="new_record" type="string"/>
+        <element label="Due Date" max_length="40" name="u_due_date_1" type="due_date"/>
     </element>
 </database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2172885247f131103b6e1916926d4351" label="employee occusions" max_length="40" name="x_58872_needit_employee_occusions" type="collection">
+        <element label="id" max_length="100" name="id" type="integer"/>
+        <element label="name" max_length="100" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Occasion day" max_length="40" name="occasion_day" type="glide_date"/>
+        <element label="Occasion month" max_length="40" name="occasion_month" type="glide_date_time"/>
+        <element label="Occasion number" max_length="40" name="occasion_number" type="integer"/>
+    </element>
+</database>
